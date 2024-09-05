@@ -22,7 +22,7 @@ Detailed description of the project, including its purpose and goals.
 
 ## Technology Uses
 
-- React-Vite, Typescript, react-router-dom, react-hook-form, tailwind, react-helmet-async
+- React-Vite, Typescript, react-router-dom, react-hook-form, tailwind, react-helmet-async, react-icons, aos
 
 ## Installation Guideline For TeaStall-Client (Frontend)
 - npm create vite
@@ -39,6 +39,8 @@ Detailed description of the project, including its purpose and goals.
 ### Prerequisites
 - npm i react-hook-form
 - npm i react-router-dom
+- npm i react-icons-icons
+- npm i --save-dev @types/aos
 
 ### Installation Steps
 
